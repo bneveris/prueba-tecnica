@@ -34,7 +34,7 @@ public class InformacionController {
 	
 	
 	/**
-	 * Metodo encargado de traer la informacion personal
+	 * Metodo encargado del login
 	 * @param request
 	 * @param usuario
 	 * @return
